@@ -1,4 +1,4 @@
-# Project Name
+# Hostel App
 
 ## Overview
 This project requires two steps to run the development environment. The first step is to run the client-side application, and the second is to run the server-side application. 
