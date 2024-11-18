@@ -56,13 +56,6 @@ const HostelCard = ({ hostel, removeButton }) => {
         >
           {hostel.name}
         </Typography>
-        <Typography
-          variant="body2"
-          color="text.secondary"
-          sx={{ marginBottom: 2 }}
-        >
-          Location ID: {hostel.locationId}
-        </Typography>
       </CardContent>
 
       <Button
